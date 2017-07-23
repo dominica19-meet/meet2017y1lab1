@@ -17,4 +17,16 @@ turtle.goto(-200,-100+200)
 turtle.goto(-200+50,-100)
 turtle.goto(-200+100,-100+200)
 turtle.goto(-200+100,-100)
+
+turtule.penup() #pick uo the pen so it doesnt
+#draw
+turtle.goto(-200,-100) #move the turtle to the
+#position (-200,-100)
+#on the screen
+turtle.pendown() #put the pen down to start
+#drawing
+#draw the E:
+turtle.goto(-200,-100+200)
+
+
 turtle.mainloop()
